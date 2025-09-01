@@ -1,2 +1,3 @@
 # Urban-Heat-Island-UHI-Air-Pollution-Analysis
-Urban Heat Islands occur when cities experience higher temperatures than surrounding rural areas due to human activities and built environments. This exacerbates air pollution and energy consumption.
+This project investigates the relationship between urban heat island effects and air pollution levels in major cities. Using environmental datasets (air quality indicators like PM2.5, PM10, NO₂, SO₂, CO, O₃), the data is cleaned, preprocessed, and analyzed to: Quantify temperature differences between urban and rural areas, Explore correlations between UHI intensity and pollution levels, Assess the role of green cover and meteorological factors in mitigating UHI and pollution.
+The project supports green skills by emphasizing sustainable urban planning, environmental monitoring, and pollution control.
